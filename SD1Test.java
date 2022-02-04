@@ -5,7 +5,7 @@ public class SD1Test {
 
     @Test
     public void test1() {
-        assertEquals(5, SD1.multiplication(2, 3));
+        assertEquals(6, SD1.multiplication(2, 3));
     }
-    
+
 }
